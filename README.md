@@ -1,4 +1,4 @@
-# Godot_Projects
+# Learning Godot_Projects
 This is a repository of any games I make trying to learn Godot.
 
 **Dodge the Creeps 01**
