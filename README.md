@@ -1,5 +1,5 @@
 # Godot_Projects
-This is a repository of some games I make in Godot.
+This is a repository of any games I make trying to learn Godot.
 
 **Dodge the Creeps 01**
 
